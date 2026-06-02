@@ -1,0 +1,42 @@
+[
+   {
+      "directory" : "D:/Ti/TMS320F28004x/siemensV03/CPU1_RAM",
+      "command"   : "clang++ -I\"D:/Ti/TMS320F28004x/pfc_siemensV02/include\" -I\"D:/Ti/TMS320F28004x/siemensV03\" -I\"C:/ti/c2000/C2000Ware_4_03_00_00\" -I\"D:/Ti/TMS320F28004x/siemensV03/device\" -I\"C:/ti/c2000/C2000Ware_4_03_00_00/driverlib/f28004x/driverlib\" -I\"C:/ti/ccstheia140/ccs/tools/compiler/ti-cgt-c2000_22.6.1A23259/include\" -DDEBUG -I\"D:/Ti/TMS320F28004x/siemensV03/CPU1_RAM/syscfg\"",
+      "file"      : "D:/Ti/TMS320F28004x/siemensV03/device/device.c"
+   },
+   {
+      "directory" : "D:/Ti/TMS320F28004x/siemensV03/CPU1_RAM",
+      "command"   : "clang++ -I\"D:/Ti/TMS320F28004x/pfc_siemensV02/include\" -I\"D:/Ti/TMS320F28004x/siemensV03\" -I\"C:/ti/c2000/C2000Ware_4_03_00_00\" -I\"D:/Ti/TMS320F28004x/siemensV03/device\" -I\"C:/ti/c2000/C2000Ware_4_03_00_00/driverlib/f28004x/driverlib\" -I\"C:/ti/ccstheia140/ccs/tools/compiler/ti-cgt-c2000_22.6.1A23259/include\" -DDEBUG -I\"D:/Ti/TMS320F28004x/siemensV03/CPU1_RAM/syscfg\"",
+      "file"      : "D:/Ti/TMS320F28004x/siemensV03/device/f28004x_codestartbranch.asm"
+   },
+   {
+      "directory" : "D:/Ti/TMS320F28004x/siemensV03/CPU1_RAM",
+      "command"   : "clang++ -I\"D:/Ti/TMS320F28004x/pfc_siemensV02/include\" -I\"D:/Ti/TMS320F28004x/siemensV03\" -I\"C:/ti/c2000/C2000Ware_4_03_00_00\" -I\"D:/Ti/TMS320F28004x/siemensV03/device\" -I\"C:/ti/c2000/C2000Ware_4_03_00_00/driverlib/f28004x/driverlib\" -I\"C:/ti/ccstheia140/ccs/tools/compiler/ti-cgt-c2000_22.6.1A23259/include\" -DDEBUG -I\"D:/Ti/TMS320F28004x/siemensV03/CPU1_RAM/syscfg\"",
+      "file"      : "D:/Ti/TMS320F28004x/siemensV03/include/background_task_cla.cla"
+   },
+   {
+      "directory" : "D:/Ti/TMS320F28004x/siemensV03/CPU1_RAM",
+      "command"   : "clang++ -I\"D:/Ti/TMS320F28004x/pfc_siemensV02/include\" -I\"D:/Ti/TMS320F28004x/siemensV03\" -I\"C:/ti/c2000/C2000Ware_4_03_00_00\" -I\"D:/Ti/TMS320F28004x/siemensV03/device\" -I\"C:/ti/c2000/C2000Ware_4_03_00_00/driverlib/f28004x/driverlib\" -I\"C:/ti/ccstheia140/ccs/tools/compiler/ti-cgt-c2000_22.6.1A23259/include\" -DDEBUG -I\"D:/Ti/TMS320F28004x/siemensV03/CPU1_RAM/syscfg\"",
+      "file"      : "D:/Ti/TMS320F28004x/siemensV03/source/Calculare.c"
+   },
+   {
+      "directory" : "D:/Ti/TMS320F28004x/siemensV03/CPU1_RAM",
+      "command"   : "clang++ -I\"D:/Ti/TMS320F28004x/pfc_siemensV02/include\" -I\"D:/Ti/TMS320F28004x/siemensV03\" -I\"C:/ti/c2000/C2000Ware_4_03_00_00\" -I\"D:/Ti/TMS320F28004x/siemensV03/device\" -I\"C:/ti/c2000/C2000Ware_4_03_00_00/driverlib/f28004x/driverlib\" -I\"C:/ti/ccstheia140/ccs/tools/compiler/ti-cgt-c2000_22.6.1A23259/include\" -DDEBUG -I\"D:/Ti/TMS320F28004x/siemensV03/CPU1_RAM/syscfg\"",
+      "file"      : "D:/Ti/TMS320F28004x/siemensV03/source/State.c"
+   },
+   {
+      "directory" : "D:/Ti/TMS320F28004x/siemensV03/CPU1_RAM",
+      "command"   : "clang++ -I\"D:/Ti/TMS320F28004x/pfc_siemensV02/include\" -I\"D:/Ti/TMS320F28004x/siemensV03\" -I\"C:/ti/c2000/C2000Ware_4_03_00_00\" -I\"D:/Ti/TMS320F28004x/siemensV03/device\" -I\"C:/ti/c2000/C2000Ware_4_03_00_00/driverlib/f28004x/driverlib\" -I\"C:/ti/ccstheia140/ccs/tools/compiler/ti-cgt-c2000_22.6.1A23259/include\" -DDEBUG -I\"D:/Ti/TMS320F28004x/siemensV03/CPU1_RAM/syscfg\"",
+      "file"      : "D:/Ti/TMS320F28004x/siemensV03/source/TimeBase.c"
+   },
+   {
+      "directory" : "D:/Ti/TMS320F28004x/siemensV03/CPU1_RAM",
+      "command"   : "clang++ -I\"D:/Ti/TMS320F28004x/pfc_siemensV02/include\" -I\"D:/Ti/TMS320F28004x/siemensV03\" -I\"C:/ti/c2000/C2000Ware_4_03_00_00\" -I\"D:/Ti/TMS320F28004x/siemensV03/device\" -I\"C:/ti/c2000/C2000Ware_4_03_00_00/driverlib/f28004x/driverlib\" -I\"C:/ti/ccstheia140/ccs/tools/compiler/ti-cgt-c2000_22.6.1A23259/include\" -DDEBUG -I\"D:/Ti/TMS320F28004x/siemensV03/CPU1_RAM/syscfg\"",
+      "file"      : "D:/Ti/TMS320F28004x/siemensV03/source/WarnCtrl.c"
+   },
+   {
+      "directory" : "D:/Ti/TMS320F28004x/siemensV03/CPU1_RAM",
+      "command"   : "clang++ -I\"D:/Ti/TMS320F28004x/pfc_siemensV02/include\" -I\"D:/Ti/TMS320F28004x/siemensV03\" -I\"C:/ti/c2000/C2000Ware_4_03_00_00\" -I\"D:/Ti/TMS320F28004x/siemensV03/device\" -I\"C:/ti/c2000/C2000Ware_4_03_00_00/driverlib/f28004x/driverlib\" -I\"C:/ti/ccstheia140/ccs/tools/compiler/ti-cgt-c2000_22.6.1A23259/include\" -DDEBUG -I\"D:/Ti/TMS320F28004x/siemensV03/CPU1_RAM/syscfg\"",
+      "file"      : "D:/Ti/TMS320F28004x/siemensV03/source/main.c"
+   }
+]
